@@ -8,3 +8,9 @@
 #[] square brackets
 #[[]] double square brackets
 #{} curly brackets
+
+#single round brackets are used to tear the fabric of space and reality
+#so that you can execute commands in a subshell
+#
+
+#double round brackets are used for mathematical calculations
