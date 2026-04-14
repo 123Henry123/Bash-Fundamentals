@@ -15,3 +15,9 @@ echo "there are $number_of_boxes boxes"
 
 #if you were asked to show which variable stores the number of boxes you could use songle quotes
 echo '$number_of_boxes is the variable that stores the number of boxes'
+
+#common issues and mistakes
+#using single quotes when calling a variable will lead to your variable being printed 
+#literally. To fix this issue you can change them to double quotes.
+#using double quotes can subject your code to malicious injections. To prevent
+#that you can try breaking your code yourself to test its durability.
