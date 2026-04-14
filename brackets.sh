@@ -13,7 +13,7 @@
 #single round brackets are used to tear the fabric of space and reality
 #so that you can execute commands in a subshell or setting arrays
 #eg
-list_of_fruits=(apple orange bananas)
+list_of_fruits=("apple" "orange" "bananas")
 
 
 #double round brackets are used for mathematical calculations
@@ -47,3 +47,7 @@ my_example_function() {
 	echo "this is my function"
 }
 my_example_function
+
+#Common issues/mistakes
+#when setting an array with single round brackets you may instinctively want
+#to put a space
