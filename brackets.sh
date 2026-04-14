@@ -18,3 +18,8 @@ list_of_fruits=(apple orange bananas)
 #double round brackets are used for mathematical calculations
 #eg
 echo $((1+1))
+
+#single square brackets are used to test if things are true or false
+
+#double square brackets are used to compare things and you are able 
+#to use: -lt, -eq, -gt, &&, and many other types of comparison
