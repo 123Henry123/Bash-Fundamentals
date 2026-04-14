@@ -10,7 +10,11 @@
 #{} curly brackets
 
 #single round brackets are used to tear the fabric of space and reality
-#so that you can execute commands in a subshell
-#
+#so that you can execute commands in a subshell or setting arrays
+#eg
+list_of_fruits=(apple orange bananas)
+
 
 #double round brackets are used for mathematical calculations
+#eg
+echo $((1+1))
