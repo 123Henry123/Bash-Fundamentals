@@ -58,3 +58,4 @@ my_example_function
 #when using double round brackets it is a common mistake to forget the $ symbol
 #once again learning the syntax will help with this mistake.
 
+#A commone misunderstanding
