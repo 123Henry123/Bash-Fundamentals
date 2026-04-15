@@ -55,4 +55,6 @@ my_example_function
 #will result in an error. to prevent this you can familiarize yourself with
 #the syntax.
 
-#
+#when using double round brackets it is a common mistake to forget the $ symbol
+#once again learning the syntax will help with this mistake.
+
