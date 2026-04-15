@@ -49,5 +49,10 @@ my_example_function() {
 my_example_function
 
 #Common issues/mistakes
+
 #when setting an array with single round brackets you may instinctively want
-#to put a space
+#to put a space between the = symbol and your value. However, in Bash that
+#will result in an error. to prevent this you can familiarize yourself with
+#the syntax.
+
+#
