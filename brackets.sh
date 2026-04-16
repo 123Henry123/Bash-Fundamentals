@@ -58,4 +58,6 @@ my_example_function
 #when using double round brackets it is a common mistake to forget the $ symbol
 #once again learning the syntax will help with this mistake.
 
-#A commone misunderstanding
+#A common misunderstanding when using single square is that it will only check for ones 
+#zeroes or true or false when in reality it checks if the variable has a value.
+#this is just a good tip to keep in mind when using this type of brackets.
