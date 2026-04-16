@@ -65,3 +65,5 @@ my_example_function
 #with double square brackets you are required to put spaces between the brackets
 #and the actual content or else the comparision won't work. Once again knowing 
 #the syntax will help with this issue.
+
+#when using curly brackets 
