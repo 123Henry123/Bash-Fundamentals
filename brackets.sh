@@ -66,4 +66,5 @@ my_example_function
 #and the actual content or else the comparision won't work. Once again knowing 
 #the syntax will help with this issue.
 
-#when using curly brackets 
+#when using curly brackets to create functions some IDE's do not automatically
+#create a closing brackets so it is advised to make sure you have one
