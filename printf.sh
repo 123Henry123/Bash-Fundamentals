@@ -16,5 +16,7 @@ echo -e "\nhello\n"
 #without the -e the \n would print literally
 
 
-#a common mistake when using printf is using / instead of \
+#a common mistake when using printf is using / instead of \ for many options
 #getting used to \ will help resolve this issue.
+#another issue is that there are way too many options to possibly remember so
+#there is no need to remember all of them, but you can search up syntax.
