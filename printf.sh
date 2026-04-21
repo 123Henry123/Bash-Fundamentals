@@ -10,3 +10,7 @@ printf "\nhello\n\n"
 #if we were to use echo we would need to add a -e tag 
 #however with printf you don't need any tags to perform options such as \n
 
+#eg
+echo -e "\nhello\n"
+
+#without the -e the \n would print literally
