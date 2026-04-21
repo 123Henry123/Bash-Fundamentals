@@ -14,3 +14,7 @@ printf "\nhello\n\n"
 echo -e "\nhello\n"
 
 #without the -e the \n would print literally
+
+
+#a common mistake when using printf is using / instead of \
+#getting used to \ will help resolve this issue.
