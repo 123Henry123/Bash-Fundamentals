@@ -7,10 +7,15 @@
 #The commands under if and elif will only run if certain conditions are met
 
 #eg
-number_of_boxes="3"
+number_of_boxes="2"
 if [[ $number_of_boxes="3" ]]; then
 	echo "there are 3 boxes"
 elif [[ $number_of_boxes="2" ]]; then
 	echo "there are 2 boxes"
 else
 	echo "you either have more than 3 boxes or less than 2 boxes"
+
+#that script will set the number of boxes to 2. Then it will check if you have 3 boxes
+#if you do it will display "there are 3 boxes". If there are not 3 boxes it will check
+#if there are 2 boxes it will display "there are 2 boxes". For every other number of 
+#boxes it will display "you either have more than 3 boxes or less than 2 boxes"
