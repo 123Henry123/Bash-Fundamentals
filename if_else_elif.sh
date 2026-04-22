@@ -19,3 +19,5 @@ else
 #if you do it will display "there are 3 boxes". If there are not 3 boxes it will check
 #if there are 2 boxes it will display "there are 2 boxes". For every other number of 
 #boxes it will display "you either have more than 3 boxes or less than 2 boxes"
+#however, one thing to note is that the statement above will not run because there
+#is no fi to end the if statement
