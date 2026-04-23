@@ -21,3 +21,6 @@ else
 #boxes it will display "you either have more than 3 boxes or less than 2 boxes"
 #however, one thing to note is that the statement above will not run because there
 #is no fi to end the if statement
+
+#common mistakes people make with if statements:
+#forgetting to type fi to end the statement the avoid this you can just remember to add it
