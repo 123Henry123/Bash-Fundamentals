@@ -14,3 +14,7 @@ read user_input_eg_1
 read -p "input a number from 1-10: " user_input_eg_2
 
 #You can add tags to the read command to make you prompts more descriptive
+
+
+#common issues when using the read command to prompt for user input is 
+#not adding a ": ". not doing so will make the question difficult to understand
