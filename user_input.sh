@@ -18,3 +18,4 @@ read -p "input a number from 1-10: " user_input_eg_2
 
 #common issues when using the read command to prompt for user input is 
 #not adding a ": ". not doing so will make the question difficult to understand
+#adding the ": " will make the question more clear
