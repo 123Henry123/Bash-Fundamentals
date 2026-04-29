@@ -5,7 +5,12 @@
 #to do that you can use the read command.
 
 #eg
-read user_input
+read user_input_eg_1
 
 #that will promt the user to type something. however, it will look very borring
 #and desn't have any question attached to it.
+
+#eg
+read -p "input a number from 1-10: " user_input_eg_2
+
+#You can add tags to the read command to make you prompts more descriptive
