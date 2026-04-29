@@ -25,3 +25,6 @@ esac
 #this command will check if the variable "number_of_boxes" contains a value
 #of 1, 2 or, 3. If there are it will print that there are so and so number of boxes.
 #If not then it will print that there are more than 3 boxes.
+
+#a common mistake is for getting to add the *). remembering to add that will help
+#with this issue.
