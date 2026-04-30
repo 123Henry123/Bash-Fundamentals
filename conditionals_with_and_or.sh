@@ -11,3 +11,10 @@
 #---------------------------------------|-------------------------------------------|
 
 #to use and/or operators you just need to insert them between your conditions
+
+#eg
+
+number_of_boxes="5"
+if [[ $number_of_boxes -lt "6" && $number_of_boxes -gt "4" ]]; then
+	echo "there are 5 boxes"
+fi

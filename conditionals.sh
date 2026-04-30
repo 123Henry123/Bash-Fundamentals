@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #conditionals set conditions for a function to run. They are often used with if and while.
-#available conditions include:
+#to set conditionals you use operators such as:
 #-------------------------------|---------------------------------------|
 # -eq (equal to)				|										|
 # -ne (not equal to)			|										|
