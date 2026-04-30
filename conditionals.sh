@@ -2,11 +2,25 @@
 
 #conditionals set conditions for a function to run. They are often used with if and while.
 #available conditions include:
+#-------------------------------|---------------------------------------|
+# -eq (equal to)				|										|
+# -ne (not equal to)			|										|
+# -lt (less than)				|	These are used to compare integers	|
+# -gt (greater than)			|										|
+# -le (less or equal to)		|										|
+# -ge (greater or equal to)		|										|	
+#-------------------------------|---------------------------------------|
+# = (equal to)					|										|
+# != (not equal to)				|										|
+# -z (string is empty)			|	These are used to 					|
+# -n (string is not empty)		|										|
+#-------------------------------|---------------------------------------|
+
 
 #eg
 
 number_of_boxes="2"
-while [[ $number_of_boxes="2" ]]; do
+while [[ $number_of_boxes -eq "2" ]]; do
 	echo "like this"
 	break
 done
