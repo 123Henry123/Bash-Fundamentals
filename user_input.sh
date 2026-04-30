@@ -7,7 +7,7 @@
 #eg
 read user_input_eg_1
 
-#that will promt the user to type something. however, it will look very borring
+#that will prompt the user to type something. however, it will look very boring
 #and desn't have any question attached to it.
 
 #eg
