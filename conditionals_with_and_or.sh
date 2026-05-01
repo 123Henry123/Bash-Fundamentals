@@ -33,3 +33,19 @@ fi
 
 #that will check if the number of boxes is greater than 999 or less than 300
 #if either of the conditions are met then the following command will run
+
+
+#common issues and mistakes:
+#a common mistake is using the and operator to check if a variable is equal to 2
+#separate values
+
+#eg
+if [[ $number_of_boxes -eq "3" && $number_of_boxes -eq "4" ]]; then
+	echo "this will never be displayed"
+fi
+
+#the variable $number_of_boxes will never be equal to 2 different values at
+#the same time so the code below will never run.
+
+#to prevent such issues you can refrain for setting a condition where it requires
+#a variable to be equal to 2 values or you could use the "or" operator instead
