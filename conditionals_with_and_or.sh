@@ -18,3 +18,8 @@ number_of_boxes="5"
 if [[ $number_of_boxes -lt "6" && $number_of_boxes -gt "4" ]]; then
 	echo "there are 5 boxes"
 fi
+
+#that will check if the number of boxes is less than 6 and greater than 4
+#if the value of number_of_boxes meets both requirements then the following
+#code will run
+
