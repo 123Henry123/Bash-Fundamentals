@@ -36,6 +36,8 @@ fi
 
 
 #common issues and mistakes:
+----------------------------------------------------------------------------------
+#AND (&&)
 #a common mistake is using the and operator to check if a variable is equal to 2
 #separate values
 
@@ -49,3 +51,19 @@ fi
 
 #to prevent such issues you can refrain for setting a condition where it requires
 #a variable to be equal to 2 values or you could use the "or" operator instead
+
+---------------------------------------------------------------------------------
+#OR (||)
+#similarily if you use the "or" operator to check if a variable is not equal to
+#two separate values
+
+#eg
+if [[ $number_of_boxes -ne "3" || $number_of_boxes -ne "99" ]]; then
+	echo "this will always be true"
+fi
+
+#if the variable number_of_boxes equal to one of the values then it won't be 
+#equal to the other value. so the statement will always be true
+
+#to prevent such issues you can refrain for setting a condition where it requires
+#a variable to be not equal to 2 values or you could use the "and" operator instead
