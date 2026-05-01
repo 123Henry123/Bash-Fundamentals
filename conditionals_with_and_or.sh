@@ -31,4 +31,5 @@ if [[ $number_of_boxes -gt "999" || $number_of_boxes -lt "300"  ]]; then
 fi
 
 
-
+#that will check if the number of boxes is greater than 999 or less than 300
+#if either of the conditions are met then the following command will run
