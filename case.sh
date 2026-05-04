@@ -9,7 +9,7 @@
 number_of_boxes="5"
 
 case $number_of_boxes in
-	1)
+	5)
 		echo "there are 5 boxes"
 		;;
 	2)
@@ -18,13 +18,11 @@ case $number_of_boxes in
 	3)
 		echo "there are 3 boxes"
 		;;
-	*)
-		echo "there are more than 3 boxes"
 esac
 
 #this command will check if the variable "number_of_boxes" contains a value
 #of 1, 2 or, 3. If there are it will print that there are so and so number of boxes.
 #If not then it will print that there are more than 3 boxes.
 
-#a common mistake is for getting to add the *). remembering to add that will help
-#with this issue.
+#a common mistake is forgetting to add esac at the end.
+#without esac the function will not run properly
