@@ -24,5 +24,5 @@ esac
 #of 1, 2 or, 3. If there are it will print that there are so and so number of boxes.
 #If not then it will print that there are more than 3 boxes.
 
-#a common mistake is forgetting to add esac at the end.
+#a common mistake is forgetting to add esac at the end
 #without esac the function will not run properly
