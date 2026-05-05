@@ -18,3 +18,13 @@
 2. I can view my previous commits to see my progress.
 
 3. I can review commits where I fixed errors to see how they were fixed.
+
+
+# Why is documentation useful?
+
+1. Having documentation means you are able to prove your work is yours.
+
+2. You are able to go back and reflect on past mistake rather than rushing ahead.
+
+3. Properly naming your commits will make is easier to track progress.
+
