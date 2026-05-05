@@ -45,3 +45,17 @@
 3. Git is secure as long as you have the correct settings configured
 	- Gives credit to username and email
 		-> You can hide your email if you wish
+
+# Is git important in the IT industry?
+
+1. Of course git is an extremely useful tool in this industry
+
+2. Lots of work is cooperative
+	- git merge and git branch come in handy
+
+3. Keeps track of files
+	- Even if your current version goes missing you keep progress
+
+4. Shows time and dedication
+	- Your commit history shows how dedicated you really are
+
