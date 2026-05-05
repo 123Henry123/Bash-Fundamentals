@@ -28,3 +28,14 @@
 
 3. Properly naming your commits will make is easier to track progress.
 
+
+# Importance of git
+
+1. Git saves your pregress and records your edits as long as you commit regularly
+	- Able to prove you work
+	- Prevents loss of work
+
+2. Git has many functions that allow collaborative work such as:
+	- Git branch 
+		-> Which allows multiple people to simultaniously work on the same file
+		
