@@ -1,4 +1,4 @@
-# Bash-Fundamentals
+### Bash-Fundamentals
 
 # What is bash?
 
@@ -46,6 +46,7 @@
 	- Gives credit to username and email
 		-> You can hide your email if you wish
 
+
 # Is git important in the IT industry?
 
 1. Of course git is an extremely useful tool in this industry
@@ -59,3 +60,12 @@
 4. Shows time and dedication
 	- Your commit history shows how dedicated you really are
 
+
+# Challenges I have overcome
+
+1. I did not know how to format my files
+	- I chose a simple format
+		-> description followed by example then common issues and ways to troubleshoot
+
+2. It was difficult to provide creative examples
+	- I settled for examples that showed an understanding of the concept
