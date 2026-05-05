@@ -36,6 +36,12 @@
 	- Prevents loss of work
 
 2. Git has many functions that allow collaborative work such as:
-	- Git branch 
-		-> Which allows multiple people to simultaniously work on the same file
-		
+	- git branch 
+		-> Allows people to work on the same file without disrupting eachother
+	- git merge
+		-> Allows you to merge your branch back to the main branch
+		-> Allows you to fix any overlap in your branch and the main branch
+
+3. Git is secure as long as you have the correct settings configured
+	- Gives credit to username and email
+		-> You can hide your email if you wish
