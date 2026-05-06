@@ -25,6 +25,9 @@ example_function
 
 #common issues/mistakes:
 #it is common the forget the round brackets after the function name when
-#declaring a function.
+#declaring a function. You will get an error if you don't do that
+#by reading the error log you can figure out what you forgot
+
 #another common issue is using a variable that isn't declared
-#because if the variable isn't declared you may get an error
+#because if the variable isn't declared you may get an error 
+#once again reading the error log will help resolve the error
