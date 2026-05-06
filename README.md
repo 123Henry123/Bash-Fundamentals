@@ -69,3 +69,13 @@
 
 2. It was difficult to provide creative examples
 	- I settled for examples that showed an understanding of the concept
+
+
+# Challenges I have yet to overcome
+
+1. I have yet to add lots of detail to my files
+
+2. I have yet to fully comprehend certain concepts such as:
+	- redirects
+	- arrays
+	- for loops
