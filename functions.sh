@@ -21,3 +21,10 @@ example_function
 
 #now that you have made a function you can use it whenever you want
 #although this one isn't very useful
+
+
+#common issues/mistakes:
+#it is common the forget the round brackets after the function name when
+#declaring a function.
+#another common issue is using a variable that isn't declared
+#because if the variable isn't declared you may get an error
