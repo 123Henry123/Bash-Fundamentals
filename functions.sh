@@ -19,3 +19,5 @@ example_function() {
 
 example_function
 
+#now that you have made a function you can use it whenever you want
+#although this one isn't very useful
