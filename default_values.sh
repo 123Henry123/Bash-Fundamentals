@@ -16,4 +16,5 @@ example="hello"
 example_for_fallback=${example:-default}
 echo "$example_for_fallback"
 
-
+#this will return 'hello' even though the default value was set after
+#the 'fallback method' will only print if the variable is empty or unset
