@@ -7,3 +7,13 @@
 
 #default values exist to make code more stable
 #it acts like a safety net
+
+#eg
+
+#fallback method
+----------------------------------------
+example="hello"
+example_for_fallback=${example:-default}
+echo "$example_for_fallback"
+
+
