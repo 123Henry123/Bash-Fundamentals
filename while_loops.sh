@@ -6,3 +6,11 @@
 #there are two ways to end a while loop
 #1. the condition to run the loop is no longer met
 #2. putting 'break' in the will end the loop
+
+
+#eg
+
+number_to_guess="5"
+$users_guess""
+while [[ $users_guess != $number_to_guess ]]; do
+	read -p "guess a number between 1 and 10"
