@@ -15,3 +15,15 @@ while [[ $users_guess != $number_to_guess ]]; do
 	read -p "guess a number between 1 and 10: " users_guess
 done
 echo "the loop has ended"
+
+#the loop will run until the user guesses the number 5
+
+
+#eg
+while [[ $users_guess != $number_to_guess ]]; do
+	read -p "guess a number between 1 and 10: " users_guess
+	break
+done
+echo "the loop has ended"
+
+#the loop will end after every guess
