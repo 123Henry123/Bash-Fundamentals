@@ -9,8 +9,9 @@
 
 
 #eg
-
 number_to_guess="5"
-$users_guess""
+users_guess=""
 while [[ $users_guess != $number_to_guess ]]; do
-	read -p "guess a number between 1 and 10"
+	read -p "guess a number between 1 and 10: " users_guess
+done
+echo "the loop has ended"
