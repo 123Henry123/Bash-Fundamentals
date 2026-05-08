@@ -27,3 +27,12 @@ done
 echo "the loop has ended"
 
 #the loop will end after every guess
+
+#common mistakes and misunderstandings
+
+#like many other built in functions you need to type something to end the function
+#in this case you need to type "done" which many people forget to do
+
+#a common misunderstanding is that the syntax is 'while condition; do'
+#in reality the ';' is there rather than having to hit enter and write
+#on the next line
