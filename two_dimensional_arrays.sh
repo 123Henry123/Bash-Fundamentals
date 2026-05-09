@@ -33,3 +33,7 @@ example[2,2]=9
 
 echo "${example[0,1]}"
 
+#although they technically aren't two dimensional they work the same way as
+#two dimensional arrays
+
+#common mistakes and misunderstandings
