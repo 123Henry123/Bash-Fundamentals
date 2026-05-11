@@ -38,4 +38,6 @@ echo "${example[0,1]}"
 #two dimensional arrays
 
 #common mistakes and misunderstandings
-#a common misunderstanding 
+#a common mistake is trying to make an actual two dimensional array in bash
+#it will not work because bash does not support it. To fix the issue you can
+#use an associative array for bash
