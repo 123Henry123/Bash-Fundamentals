@@ -31,7 +31,7 @@
 
 # Importance of git
 
-1. Git saves your pregress and records your edits as long as you commit regularly
+1. Git saves your progress and records your edits as long as you commit regularly
 	- Able to prove you work
 	- Prevents loss of work
 
