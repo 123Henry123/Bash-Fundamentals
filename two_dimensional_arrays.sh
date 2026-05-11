@@ -2,7 +2,8 @@
 
 #the two dimentional array is a way to store store values like in a table
 #as the name suggests it is just an array with an extra dimension added to it (vertically)
-#unfortunately two dimensional arrays are not supported on bash
+#or you can put arrays into arrays
+#unfortunately two dimensional arrays are not supported on bash. 
 
 #eg)
 #a two dimensional array would look like this (in python):
@@ -37,3 +38,4 @@ echo "${example[0,1]}"
 #two dimensional arrays
 
 #common mistakes and misunderstandings
+#a common misunderstanding 

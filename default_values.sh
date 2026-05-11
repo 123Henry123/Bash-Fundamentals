@@ -8,17 +8,18 @@
 #default values exist to make code more stable
 #it acts like a safety net
 
+
 #eg
 
 #fallback method
-----------------------------------------------------------------------------|
-example="hello"																|
-example_for_fallback=${example:-default}									|
-echo "$example_for_fallback"												|
-#																			|				
-#this will return 'hello' even though the default value was set after		|
-#the 'fallback method' will only print if the variable is empty or unset	|
-----------------------------------------------------------------------------|
+#----------------------------------------------------------------------------
+example="hello"																
+example_for_fallback=${example:-default}									
+echo "$example_for_fallback"												
+#																						
+#this will return 'hello' even though the default value was set after		
+#the 'fallback method' will only print if the variable is empty or unset	
+#----------------------------------------------------------------------------
 
 
 #common mistakes when setting default values
