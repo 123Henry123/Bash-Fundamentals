@@ -6,3 +6,6 @@
 #eg
 
 cat file.txt | sort
+cd ~ | ls
+dpkg --list | grep games
+
