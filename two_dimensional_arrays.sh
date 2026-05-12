@@ -5,7 +5,7 @@
 #or you can put arrays into arrays
 #unfortunately two dimensional arrays are not supported on bash. 
 
-#eg)
+#eg
 #a two dimensional array would look like this (in python):
 
 #example = [
@@ -18,7 +18,7 @@
 #however bash does not support two dimensional arrays but has a different
 #of doing it called an associative array
 
-#eg)
+#eg
 declare -A example
 example[0,0]=1
 example[0,1]=2
