@@ -9,3 +9,4 @@ cat file.txt | sort
 cd ~ | ls
 dpkg --list | grep games
 
+#as you can see there are many ways to use pipes
