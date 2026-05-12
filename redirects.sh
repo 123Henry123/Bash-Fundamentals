@@ -20,3 +20,6 @@ echo "hi" > path_to_file.txt
 
 echo "this will be at the bottom of the file" >> path_to_file.txt
 #this will add the line to the bottom of the file
+
+wc -l < path_to_file.txt
+#this will show to number of lines in the file
