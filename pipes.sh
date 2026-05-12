@@ -15,3 +15,5 @@ dpkg --list | grep games
 #a common misunderstanding is that you can chain any command together
 #that is not true. pipes operate through something called a subshell
 #however some commands cannot be combined directly such echo and read
+
+#to trouble shoot you can search up what can or can not go together
