@@ -10,3 +10,8 @@ cd ~ | ls
 dpkg --list | grep games
 
 #as you can see there are many ways to use pipes
+
+#common mistakes and mistunderstandings
+#a common misunderstanding is that you can chain any command together
+#that is not true. pipes operate through something called a subshell
+#however some commands cannot be combined directly such echo and read
