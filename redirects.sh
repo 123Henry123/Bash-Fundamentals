@@ -6,3 +6,9 @@
 #there are standard inputs (stdin)
 #there are standard outputs (stdout)
 #there are standard error (stderr)
+
+#there are many symbols that can be used such as:
+# '>' overwrites existing content (stdout)
+# '>>' adds to existing content (stdout)
+# '<' reads the file (stdin)
+#and many more
