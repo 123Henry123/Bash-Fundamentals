@@ -13,3 +13,9 @@ done
 	echo "$number_of_words"
 
 #this will display the number of words in the variable text
+
+#common mistakes or misunderstandings
+#a common misunderstanding is that you need use a letter 
+#eg:
+#for e in
+#for i in
