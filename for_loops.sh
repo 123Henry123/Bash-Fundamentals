@@ -14,8 +14,11 @@ done
 
 #this will display the number of words in the variable text
 
+
 #common mistakes or misunderstandings
 #a common misunderstanding is that you need use a letter 
 #eg:
 #for e in
 #for i in
+#you do not need to use a letter you can use any value
+#to avoid issues like this you can consult the bash manual
