@@ -23,3 +23,7 @@ echo "this will be at the bottom of the file" >> path_to_file.txt
 
 wc -l < path_to_file.txt
 #this will show to number of lines in the file
+
+#common mistake
+#a common mistake is using '>' and rewriting the whole file when you try to use '>>'
+#to avoid this mistake you can search up the syntax
