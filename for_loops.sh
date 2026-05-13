@@ -11,3 +11,5 @@ for word in $text; do
 	number_of_words=$((1 + $number_of_words))
 done
 	echo "$number_of_words"
+
+#this will display the number of words in the variable text
